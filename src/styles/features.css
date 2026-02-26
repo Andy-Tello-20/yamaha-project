@@ -1,0 +1,14 @@
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+}
+
+.card {
+  background-color: #0a0a0a;
+  color: #fff;
+  padding: 18px;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px rgba(190, 187, 187, 0.08);
+  text-align: center;
+}

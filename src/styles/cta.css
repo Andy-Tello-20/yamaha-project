@@ -1,0 +1,29 @@
+.cta {
+  position: fixed;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90%;
+  max-width: 500px;
+}
+
+.cta a {
+  display: block;
+  background: #25D366;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+@media (min-width: 768px) {
+  .cta {
+    position: static;
+    transform: none;
+    margin-top: 40px;
+  }
+}
