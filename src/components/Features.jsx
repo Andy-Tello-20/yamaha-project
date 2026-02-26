@@ -1,8 +1,16 @@
 import "../styles/features.css"
 
+import React, { useRef } from "react";
+import {useScrollReveal} from "../hooks/ScrollReveal"
+import "../styles/animation.css";
+
 export default function Features() {
+
+const ref = useRef(null);
+  useScrollReveal(ref);
+
   return (
-    <section className="section">
+    <section ref={ref} className="section reveal">
       <h2>Características</h2>
       <div className="features">
         <div className="card">✔ 44.000 km reales</div>

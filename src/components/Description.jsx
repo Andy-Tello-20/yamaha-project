@@ -1,8 +1,16 @@
 import "../styles/description.css"
+import React, { useRef } from "react";
+import {useScrollReveal} from "../hooks/ScrollReveal"
+
 
 export default function Description() {
+
+  const ref = useRef(null);
+  useScrollReveal(ref);
+
+
   return (
-    <section className="section description">
+    <section ref={ref} className="section description reveal">
       <h2>Descripción</h2>
       <p>
         Moto versátil ideal para ciudad y montaña. Muy bien cuidada.
