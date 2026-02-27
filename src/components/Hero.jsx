@@ -13,11 +13,11 @@ export default function Hero() {
 
 
       <img src={img1} alt="Yamaha XTZ 250 2009" loading="lazy"/>
-      <div className="hero-overlay">
+      {/* <div className="hero-overlay">
         
         <p>44.000 km · Lista para transferir</p>
         <div className="price">$6.100.000</div>
-      </div>
+      </div> */}
     </section>
   )
 }
