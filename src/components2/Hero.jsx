@@ -14,12 +14,8 @@ export default function Hero() {
 
       <div className="container mx-auto px-4 z-20 relative">
         <div className="max-w-2xl">
-          <span className="inline-block px-3 py-1 bg-primary text-white text-xs font-bold uppercase tracking-widest rounded mb-4">
-            Oportunidad Única
-          </span>
-
-          <h1 className="text-5xl md:text-7xl font-bold mb-4 leading-tight">
-            Yamaha <span className="text-primary">XTZ 250</span>
+          <h1 className="text-5xl md:text-7xl font-bold mb-4 leading-tight text-white">
+            Yamaha XTZ 250
           </h1>
 
           <p className="text-xl md:text-2xl text-slate-300 mb-8 font-light">

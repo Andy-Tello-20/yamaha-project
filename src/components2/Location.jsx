@@ -15,9 +15,9 @@ export default function Location() {
           Se puede coordinar una visita para verla personalmente sin compromiso.
         </p>
 
-        <p className="mb-8">
+        {/* <p className="mb-8">
           Posibilidad de envío a otras provincias a cargo del comprador.
-        </p>
+        </p> */}
 
         <a
           href="https://wa.me/543548542606"
