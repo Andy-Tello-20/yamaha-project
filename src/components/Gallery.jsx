@@ -5,7 +5,7 @@ import img1 from "../assets/DSC_0065-01.webp";
 import img2 from "../assets/DSC_0067-01.webp";
 import img3 from "../assets/DSC_0068-01.webp";
 import img4 from "../assets/DSC_0069-01.webp";
-import img5 from "../assets/DSC_0070-01.webp";
+import img5 from "../assets/DSC_0075-01.webp";
 import img6 from "../assets/DSC_0071-01.webp";
 import img9 from "../assets/DSC_0080-01.webp";
 import img10 from "../assets/DSC_0073-01.webp";
