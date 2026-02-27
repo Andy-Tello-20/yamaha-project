@@ -64,6 +64,7 @@ export default function Gallery() {
         <img
           src={images[currentIndex]}
           alt="Yamaha XTZ 250"
+          loading="lazy"
           className={`carousel-image ${fade ? "fade-in" : "fade-out"}`}
         />
 
@@ -77,6 +78,7 @@ export default function Gallery() {
           <img
             key={index}
             src={img}
+            loading="lazy"
             alt={`Vista ${index + 1}`}
             className={`thumbnail ${
               currentIndex === index ? "active" : ""
