@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/yamaha-project/static/css/main.1ecc675b.css",
-    "main.js": "/yamaha-project/static/js/main.fc8cb45c.js",
-    "static/media/DSC_0082-01.jpeg": "/yamaha-project/static/media/DSC_0082-01.6e6d627a49e090117865.jpeg",
-    "static/media/DSC_0069-01.jpeg": "/yamaha-project/static/media/DSC_0069-01.65605bb84a9f096163c4.jpeg",
-    "static/media/DSC_0065-01.jpeg": "/yamaha-project/static/media/DSC_0065-01.c914409346d11d19a91c.jpeg",
-    "static/media/DSC_0080-01.jpeg": "/yamaha-project/static/media/DSC_0080-01.9d0d3beeddce8d1df301.jpeg",
-    "static/media/DSC_0068-01.jpeg": "/yamaha-project/static/media/DSC_0068-01.dccd4789acbcdab27333.jpeg",
-    "static/media/DSC_0067-01.jpeg": "/yamaha-project/static/media/DSC_0067-01.a0d75a87d0e89d74f450.jpeg",
-    "static/media/DSC_0070-01.jpeg": "/yamaha-project/static/media/DSC_0070-01.c8fffd605e938762b941.jpeg",
-    "static/media/DSC_0073-01.jpeg": "/yamaha-project/static/media/DSC_0073-01.7e53a54c9cc11259e8af.jpeg",
-    "static/media/DSC_0071-01.jpeg": "/yamaha-project/static/media/DSC_0071-01.4c191e655a457f726675.jpeg",
+    "main.js": "/yamaha-project/static/js/main.58bc7d9c.js",
+    "static/media/DSC_0082-01.webp": "/yamaha-project/static/media/DSC_0082-01.ec65047c4a8d5cd196d3.webp",
+    "static/media/DSC_0068-01.webp": "/yamaha-project/static/media/DSC_0068-01.866c87b01b14c0cac9df.webp",
+    "static/media/DSC_0065-01.webp": "/yamaha-project/static/media/DSC_0065-01.0ea10e007636bccd4202.webp",
+    "static/media/DSC_0080-01.webp": "/yamaha-project/static/media/DSC_0080-01.b5903f9e42ed4f26b97b.webp",
+    "static/media/DSC_0069-01.webp": "/yamaha-project/static/media/DSC_0069-01.75060c23f24754160d5f.webp",
+    "static/media/DSC_0067-01.webp": "/yamaha-project/static/media/DSC_0067-01.64cf37fa8c8d8279ff7a.webp",
+    "static/media/DSC_0073-01.webp": "/yamaha-project/static/media/DSC_0073-01.71117964a9b07d21bab3.webp",
+    "static/media/DSC_0075-01.webp": "/yamaha-project/static/media/DSC_0075-01.79209db20707b1de7349.webp",
+    "static/media/DSC_0071-01.webp": "/yamaha-project/static/media/DSC_0071-01.7307ce850f1bdda70726.webp",
     "static/media/yamaha-logo.png": "/yamaha-project/static/media/yamaha-logo.02986001c72a380d7bcc.png",
     "index.html": "/yamaha-project/index.html",
     "main.1ecc675b.css.map": "/yamaha-project/static/css/main.1ecc675b.css.map",
-    "main.fc8cb45c.js.map": "/yamaha-project/static/js/main.fc8cb45c.js.map"
+    "main.58bc7d9c.js.map": "/yamaha-project/static/js/main.58bc7d9c.js.map"
   },
   "entrypoints": [
     "static/css/main.1ecc675b.css",
-    "static/js/main.fc8cb45c.js"
+    "static/js/main.58bc7d9c.js"
   ]
 }
