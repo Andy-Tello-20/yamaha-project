@@ -1,11 +1,13 @@
+import yamaha from "../assets/yamaha-logo.png"
+
 export default function Navbar() {
   return (
     <nav className="fixed top-0 w-full z-50 backdrop-blur-md bg-background-dark/80 border-b border-primary/20">
       <div className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <span className="text-primary text-3xl">🏍️</span>
+          <img className="yamaha-logo" src={yamaha} alt="" loading="lazy" />
           <span className="font-bold text-xl tracking-tight">
-            XTZ <span className="text-primary">250</span>
+            {/* XTZ <span className="text-primary">250</span> */}
           </span>
         </div>
 

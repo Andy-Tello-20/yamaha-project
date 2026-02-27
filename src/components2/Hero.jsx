@@ -31,9 +31,9 @@ export default function Hero() {
               Ver Precio
             </button>
 
-            <button className="bg-white/10 hover:bg-white/20 backdrop-blur-md border border-white/20 text-white px-8 py-4 rounded-lg font-bold transition-all">
+            {/* <button className="bg-white/10 hover:bg-white/20 backdrop-blur-md border border-white/20 text-white px-8 py-4 rounded-lg font-bold transition-all">
               Especificaciones
-            </button>
+            </button> */}
           </div>
         </div>
       </div>

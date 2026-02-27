@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.yamaha-logo {
+  width: 143px !important;
+  height: 150px !important;
+  object-fit: contain !important;
+}

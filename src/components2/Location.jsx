@@ -8,7 +8,7 @@ export default function Location() {
         </h2>
 
         <p className="text-lg mb-4">
-          La moto se encuentra en <strong>Córdoba Capital</strong>.
+          La moto se encuentra en <strong>La Falda, Córdoba</strong>.
         </p>
 
         <p className="mb-4">
