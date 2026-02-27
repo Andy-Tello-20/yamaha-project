@@ -122,15 +122,15 @@
 
 import { useState, useEffect, useRef } from "react";
 import "../styles/gallery.css";
-import img1 from "../assets/DSC_0065-01.jpeg";
-import img2 from "../assets/DSC_0067-01.jpeg";
-import img3 from "../assets/DSC_0068-01.jpeg";
-import img4 from "../assets/DSC_0069-01.jpeg";
-import img5 from "../assets/DSC_0070-01.jpeg";
-import img6 from "../assets/DSC_0071-01.jpeg";
-import img9 from "../assets/DSC_0080-01.jpeg";
-import img10 from "../assets/DSC_0073-01.jpeg";
-import img11 from "../assets/DSC_0082-01.jpeg";
+import img1 from "../assets/DSC_0065-01.webp";
+import img2 from "../assets/DSC_0067-01.webp";
+import img3 from "../assets/DSC_0068-01.webp";
+import img4 from "../assets/DSC_0069-01.webp";
+import img5 from "../assets/DSC_0070-01.webp";
+import img6 from "../assets/DSC_0071-01.webp";
+import img9 from "../assets/DSC_0080-01.webp";
+import img10 from "../assets/DSC_0073-01.webp";
+import img11 from "../assets/DSC_0082-01.webp";
 
 import { useScrollReveal } from "../hooks/ScrollReveal";
 import "../styles/animation.css";
