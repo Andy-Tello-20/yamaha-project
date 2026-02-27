@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yamaha-project/static/css/main.f24bf389.css",
-    "main.js": "/yamaha-project/static/js/main.8547a9d7.js",
+    "main.css": "/yamaha-project/static/css/main.3ed0b2d0.css",
+    "main.js": "/yamaha-project/static/js/main.2661bfc5.js",
     "static/media/DSC_0073-01.webp": "/yamaha-project/static/media/DSC_0073-01.71117964a9b07d21bab3.webp",
     "static/media/DSC_0071-01.webp": "/yamaha-project/static/media/DSC_0071-01.7307ce850f1bdda70726.webp",
     "static/media/DSC_0082-01.webp": "/yamaha-project/static/media/DSC_0082-01.2548aca37da12e8acca7.webp",
@@ -12,11 +12,11 @@
     "static/media/DSC_0067-01.webp": "/yamaha-project/static/media/DSC_0067-01.41507a7269955cfe69de.webp",
     "static/media/DSC_0075-01.webp": "/yamaha-project/static/media/DSC_0075-01.61af330cd27c94d85b74.webp",
     "index.html": "/yamaha-project/index.html",
-    "main.f24bf389.css.map": "/yamaha-project/static/css/main.f24bf389.css.map",
-    "main.8547a9d7.js.map": "/yamaha-project/static/js/main.8547a9d7.js.map"
+    "main.3ed0b2d0.css.map": "/yamaha-project/static/css/main.3ed0b2d0.css.map",
+    "main.2661bfc5.js.map": "/yamaha-project/static/js/main.2661bfc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.f24bf389.css",
-    "static/js/main.8547a9d7.js"
+    "static/css/main.3ed0b2d0.css",
+    "static/js/main.2661bfc5.js"
   ]
 }
