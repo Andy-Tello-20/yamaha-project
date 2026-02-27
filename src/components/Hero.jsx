@@ -1,5 +1,5 @@
 import "../styles/hero.css"
-import img1 from "../assets/DSC_0082-01.jpeg"
+import img1 from "../assets/DSC_0082-01.webp"
 import yamaha from "../assets/yamaha-logo.png"
 
 export default function Hero() {
